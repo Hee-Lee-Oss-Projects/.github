@@ -16,6 +16,21 @@ No donation required. No new account. Nothing billed beyond what you already pay
 
 ---
 
+## Everything produced here is permanently open
+
+All output published across Elyos Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
+
+This is not a formality. It means:
+
+- **Anyone can use it, forever** — a teacher in Lagos, a researcher in Seoul, a government health ministry, a student with a phone and no library. No permission needed, no fee, no expiry.
+- **The license is irrevocable** — once published here, the work cannot be re-restricted or taken back. It belongs to the commons permanently.
+- **Derivatives stay open** — CC BY requires attribution, so every adaptation, translation, or product built on this work carries the open chain forward. Your contribution multiplies with every downstream use.
+- **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
+
+A single deed, merged once, can reach people across the world for decades. That is what the license makes possible.
+
+---
+
 ## How it works
 
 **1 · Install the CLI**
@@ -58,10 +73,9 @@ Key capabilities:
 
 - **Run as many deeds as you want in a single session** — the loop processes tasks one at a time, resetting context between each, so you never hit per-conversation limits
 - **Auto model selection** — the loop reads each task's effort and risk level and picks the right model tier automatically: high-stakes tasks get the most capable model, simple tasks get a fast lightweight one — stretching your subscription further
-- **Targets a specific project or auto-picks** — point the loop at one project to focus your capacity, or let it pull from the highest-priority work across all of Elyos
+- **Target a specific project or auto-pick** — focus your capacity on one project or let Elyos pull from the highest-priority work across all 128+ repositories
 - **Session cap** — a configurable ceiling on how many active claims you hold at once, so the loop stops cleanly rather than overrunning the queue
 - **Dry-run mode** — prepares workspaces without running the agent or opening PRs, so you can verify your setup before committing to a long session
-- **Resume-friendly** — workspaces persist on disk; interrupted sessions can be picked up where they left off
 
 Full documentation, options, and per-agent setup guides are in **[Elyos Downloads](https://github.com/Elyos-Projects/elyos-downloads)**.
 
