@@ -4,6 +4,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><b>⬇️ Download &amp; Get Started</b></a>
+   ·  <a href="https://github.com/jdev1977/hee-lee-oss">Platform</a>
+   ·  <a href="https://github.com/orgs/Hee-Lee-Oss-Projects/repositories">Browse 128 projects</a>
+</p>
+
+|  🌍 What it is | 🛠️ What we're building | 🚀 Get started · 1‑2‑3 |
+|---|---|---|
+| Turn spare AI capacity into open-source good deeds — shipped to **real beneficiaries**, not just merged. | **128 open projects** across cancer research, education, accessibility, open science &amp; public-benefit tools. | **1.** [Download the toolkit](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads) ⬇️<br>**2.** `hee-lee-oss init`<br>**3.** Pick a task — your agent does the rest |
+
+---
+
 **What if you could do one good deed this week?**
 **What if you could do a hundred?**
 **What if you could do a thousand — every single week — just by not wasting what you already pay for?**
