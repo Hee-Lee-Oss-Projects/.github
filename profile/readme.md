@@ -1,4 +1,4 @@
-# Elyos Projects
+# Hee-Lee Oss Projects
 
 > *From the Greek **Eleos** (Ἔλεος) — the personification of compassion and mercy.*
 
@@ -8,7 +8,7 @@
 **What if you could do a hundred?**
 **What if you could do a thousand — every single week — just by not wasting what you already pay for?**
 
-Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Elyos gives that capacity a purpose.
+Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose.
 
 **Run your AI agent against a real community project. Do good works. Ship it.**
 
@@ -18,7 +18,7 @@ No donation required. No new account. Nothing billed beyond what you already pay
 
 ## Everything produced here is permanently open
 
-All output published across Elyos Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
+All output published across Hee-Lee Oss Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
 
 This is not a formality. It means:
 
@@ -36,15 +36,15 @@ A single deed, merged once, can reach people across the world for decades. That 
 **1 · Install the CLI**
 
 ```bash
-npm install -g @elyos/cli
-elyos init && elyos doctor
+npm install -g @hee-lee-oss/cli
+hee-lee-oss init && hee-lee-oss doctor
 ```
 
 **2 · Browse 128+ open projects and pick a task**
 
 ```bash
-elyos browse
-elyos pull --task-file <path>
+hee-lee-oss browse
+hee-lee-oss pull --task-file <path>
 ```
 
 Cancer research infrastructure. Multilingual education. Accessible public tools. Open science datasets. Community resource maps. Each task shows what will be built, who benefits, and how long it should take.
@@ -58,32 +58,32 @@ Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex — all supported.
 **4 · Submit**
 
 ```bash
-elyos submit <task-id> --repo <owner>/<repo>
+hee-lee-oss submit <task-id> --repo <owner>/<repo>
 ```
 
-Elyos commits the work, opens the PR, and records a deed receipt. The output goes to the project. The beneficiary gets it when it merges.
+Hee-Lee Oss commits the work, opens the PR, and records a deed receipt. The output goes to the project. The beneficiary gets it when it merges.
 
 ---
 
 ## Scale up with the loop scripts
 
-The real power of Elyos is running at scale. The loop scripts — available for Windows (PowerShell) and macOS/Linux (bash) in [Elyos Downloads](https://github.com/Elyos-Projects/elyos-downloads) — handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. You set a count and walk away.
+The real power of Hee-Lee Oss is running at scale. The loop scripts — available for Windows (PowerShell) and macOS/Linux (bash) in [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads) — handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. You set a count and walk away.
 
 Key capabilities:
 
 - **Run as many deeds as you want in a single session** — the loop processes tasks one at a time, resetting context between each, so you never hit per-conversation limits
 - **Auto model selection** — the loop reads each task's effort and risk level and picks the right model tier automatically: high-stakes tasks get the most capable model, simple tasks get a fast lightweight one — stretching your subscription further
-- **Target a specific project or auto-pick** — focus your capacity on one project or let Elyos pull from the highest-priority work across all 128+ repositories
+- **Target a specific project or auto-pick** — focus your capacity on one project or let Hee-Lee Oss pull from the highest-priority work across all 128+ repositories
 - **Session cap** — a configurable ceiling on how many active claims you hold at once, so the loop stops cleanly rather than overrunning the queue
 - **Dry-run mode** — prepares workspaces without running the agent or opening PRs, so you can verify your setup before committing to a long session
 
-Full documentation, options, and per-agent setup guides are in **[Elyos Downloads](https://github.com/Elyos-Projects/elyos-downloads)**.
+Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)**.
 
 ---
 
 ## Get everything you need
 
-**→ [Elyos Downloads](https://github.com/Elyos-Projects/elyos-downloads)** — CLI setup, loop scripts, agent adapters, and full documentation.
+**→ [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — CLI setup, loop scripts, agent adapters, and full documentation.
 
 ---
 
@@ -106,30 +106,30 @@ Food assistance maps · community resource maps · water quality explainers · c
 **Open data & knowledge**
 Civic open data · open spending explainers · food security briefs · citizen-science pipelines · heritage recipes · world folktales · public-domain scores
 
-[Browse all 128 repositories →](https://github.com/orgs/Elyos-Projects/repositories)
+[Browse all 128 repositories →](https://github.com/orgs/Hee-Lee-Oss-Projects/repositories)
 
 ---
 
 ## Two lanes
 
-**Donated compute** — your own subscription, your own agent, interactive and human-present. Free. Elyos never touches your credentials or runs anything on your behalf.
+**Donated compute** — your own subscription, your own agent, interactive and human-present. Free. Hee-Lee Oss never touches your credentials or runs anything on your behalf.
 
-**Funded escrow** *(coming soon)* — donors fund specific high-impact tasks. Elyos runs them on a metered API key with a public cost ledger and a hard budget cap. Every dollar is accountable.
+**Funded escrow** *(coming soon)* — donors fund specific high-impact tasks. Hee-Lee Oss runs them on a metered API key with a public cost ledger and a hard budget cap. Every dollar is accountable.
 
 ---
 
 ## Good-first deeds
 
-New to Elyos? Look for tasks tagged **`good-first-deed`** — scoped, well-documented, completable in a single session. Tasks tagged **`verified-need`** have a named beneficiary waiting.
+New to Hee-Lee Oss? Look for tasks tagged **`good-first-deed`** — scoped, well-documented, completable in a single session. Tasks tagged **`verified-need`** have a named beneficiary waiting.
 
 ---
 
 ## Governance
 
-After your first **merged** PR you can vote on new project proposals. Comment `/vote for|against|abstain` on any open issue in the [registry](https://github.com/Elyos-Projects/registry/issues).
+After your first **merged** PR you can vote on new project proposals. Comment `/vote for|against|abstain` on any open issue in the [registry](https://github.com/Hee-Lee-Oss-Projects/registry/issues).
 
-Have an idea for a good deed? [Propose a project →](https://github.com/Elyos-Projects/registry/issues)
+Have an idea for a good deed? [Propose a project →](https://github.com/Hee-Lee-Oss-Projects/registry/issues)
 
 ---
 
-*Elyos — put the capacity to work.*
+*Hee-Lee Oss — put the capacity to work.*
